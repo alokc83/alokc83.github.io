@@ -62,11 +62,11 @@
 
             <h5>Output</h5>
 <pre>
-let sprite = SKSpriteNode.spriteNode(imageNamed: "<span id="codeImgName">img</span>")
+let sprite = SKSpriteNode(imageNamed: "<span id="codeImgName">img</span>")
 let offsetX = sprite.frame.size.width * sprite.anchorPoint.x
 let offsetY = sprite.frame.size.height * sprite.anchorPoint.y
 
-CGMutablePathRef path = CGPathCreateMutable();
+let path = CGPathCreateMutable();
 
 <span id="codeCGPath"></span>
 CGPathCloseSubpath(path)
