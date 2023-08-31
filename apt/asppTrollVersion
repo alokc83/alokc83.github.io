@@ -1,0 +1,11 @@
+{
+  "version": "1.0.3-2",
+  "updatePreferences": {"updateLink": "https://github.com/CokePokes/AppStorePlus-TrollStore/releases/download/v1.2-1/AppStore++_TrollStore_v1.0.3-2.ipa",
+			"title": "Update Found!",
+			"message": "Fixed a issue with update system."},
+  "shutdownPreferences": {"isShutdown": "0",
+			  "title": ".",
+			  "message": ".",
+			  "incompatibleVersions": "1.0.3-1"}
+
+}
